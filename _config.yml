@@ -15,8 +15,8 @@ minimal: false             # use a dark header
 
 # Menu
 
-navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "SRothCV_2023.pdf", title: "CV"}
+#navigation:                # accepts {file, title, url, icon, sidebaricon}
+#  - {file: "SRothCV_2023.pdf", title: "CV"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:svr5482@psu.edu"}
