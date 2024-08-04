@@ -1,6 +1,6 @@
 title: "Samantha Roth"
 author: "Samantha Roth"
-description: "Updated: 10/03/2023"
+description: "Updated: 08/04/2024"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -16,10 +16,10 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "SRothCV_2023.pdf", title: "Penn State University"}
+  - {file: "CV-August2024.pdf", title: "Dartmouth College"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:svr5482@psu.edu"}
+  - {title: Mail, icon: envelope, url: "mailto:samantha.m.roth@dartmouth.edu"}
   - {title: Github, icon: github, url: "https://github.com/samantha-roth"}
   #- {title: Subscribe, icon: rss, url: "/feed.xml"}
 
