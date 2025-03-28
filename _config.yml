@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "CV-Dec2024.pdf", title: "Dartmouth College"}
+  - {file: "CV-Mar2025.pdf", title: "Dartmouth College"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:samantha.m.roth@dartmouth.edu"}
